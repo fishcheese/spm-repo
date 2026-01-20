@@ -1,7 +1,7 @@
 {
   "programs": [
     {
-      "name": "eblanoffice",
+      "name": "eblan-office",
       "description": "Отечественный офисный пакет",
       "version": "1.0",
       "install_type": 2,
