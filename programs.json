@@ -6,6 +6,13 @@
       "version": "1.0",
       "install_type": 2,
       "archive_url": "https://raw.githubusercontent.com/fishcheese/spm-repo/refs/heads/main/eblanoffice.zip"
+    },
+    {
+      "name": "halalcharge",
+      "description": "заряжайте вашу мобилу силой аллаха ✅✅✅",
+      "version": "1.0",
+      "install_type": 1,
+      "archive_url": "https://raw.githubusercontent.com/fishcheese/spm-repo/refs/heads/main/halalcharge.zip"
     }
   ]
 }
