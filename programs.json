@@ -20,7 +20,7 @@
       "version": "1.0",
       "install_type": 1,
       "archive_url": "https://raw.githubusercontent.com/fishcheese/spm-repo/refs/heads/main/hui.zip"
-    }
+    },
     {
       "name": "rule34-electron",
       "description": "electron обёртка для rule 34 с блокировщиком рекламы и блекджеком",
