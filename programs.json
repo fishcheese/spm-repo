@@ -3,7 +3,7 @@
     {
       "name": "eblan-office",
       "description": "Отечественный офисный пакет",
-      "version": "1.0",
+      "version": "1.1",
       "install_type": 2,
       "archive_url": "https://raw.githubusercontent.com/fishcheese/spm-repo/refs/heads/main/eblanoffice.zip"
     },
