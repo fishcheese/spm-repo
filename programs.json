@@ -27,6 +27,13 @@
       "version": "1.0",
       "install_type": 1,
       "archive_url": "https://github.com/fishcheese/rule34-electron/releases/download/v1.0.0/rule34-electron-spm-1.zip"
+    },
+    {
+      "name": "snosal",
+      "description": "Б3СПЛ4ТНЫЙ СН0С3Р С4ЙТ0В И IP 4ДР3С0В 😈😈😈",
+      "version": "1.0",
+      "install_type": 1,
+      "archive_url": "https://raw.githubusercontent.com/fishcheese/spm-repo/refs/heads/main/snosal.zip"
     }
   ]
 }
