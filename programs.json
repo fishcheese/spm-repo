@@ -41,6 +41,13 @@
       "version": "1.0",
       "install_type": 1,
       "archive_url": "https://raw.githubusercontent.com/fishcheese/spm-repo/refs/heads/main/aurna.zip"
+    },
+    {
+      "name": "spm-package-generator",
+      "description": "Утилита для генерации пакетов Shit Package Manager",
+      "version": "1.0",
+      "install_type": 2,
+      "archive_url": "https://raw.githubusercontent.com/fishcheese/spm-repo/refs/heads/main/spm-package-generator.zip"
     }
   ]
 }
